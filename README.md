@@ -1,4 +1,4 @@
-***INSTALLATION INSTRUCTIONS***
+**INSTALLATION INSTRUCTIONS**
 
 # Create a virtual env (recommended)
 python -m venv .venv
